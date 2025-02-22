@@ -30,4 +30,3 @@ python vectorize_data.py
 python main.py
 ```
 
-Salary expectation - around $6500/month

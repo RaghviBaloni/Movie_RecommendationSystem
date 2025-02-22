@@ -29,4 +29,4 @@ python vectorize_data.py
 ```sh
 python main.py
 ```
-
+Expected Salary around 5100
